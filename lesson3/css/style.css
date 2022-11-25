@@ -1,0 +1,51 @@
+header {
+   color: green;
+}
+#one-block {
+   color: navy;
+}
+
+.menu a {
+   color: purple;
+}
+
+.sub-title {
+   color: blue;
+}
+
+.description {
+   color: steelblue;
+}
+
+.text.pink {
+   color: palevioletred;
+}
+
+.three-title .text {
+   color: teal;
+}
+
+.block-one,
+.block-two {
+   color: black;
+}
+
+.two>p {
+   color: lightsalmon;
+}
+
+.four-title~p {
+   color: orange;
+}
+
+.five-pink+p {
+   color: wheat;
+}
+
+.red+p {
+   color: red;
+}
+
+.three * {
+   color: rgb(116, 101, 76);
+}
